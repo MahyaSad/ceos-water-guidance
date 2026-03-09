@@ -177,9 +177,7 @@ All contributors are listed in [CONTRIBUTORS.md](./CONTRIBUTORS.md) and credited
 
 If you use this guidance or notebooks in your work, please cite:
 
-> Bolten, J.D., Ghazi Zadeh Hashemi, M., Rousseaux, C.S., Oddo, P.C., McKibben, M., et al. (2026).
-> *CEOS Best Practice Guidance: Integrating Multiplatform and Multisensor Data for Water Science and Applications* (v0.1).
-> Zenodo. https://doi.org/10.5281/zenodo.placeholder
+
 
 ---
 
