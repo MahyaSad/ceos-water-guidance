@@ -161,13 +161,14 @@ All contributors are listed in [CONTRIBUTORS.md](./CONTRIBUTORS.md) and credited
 | Name | Affiliation | Role |
 |---|---|---|
 | Erin Urquhart Jephson | NASA HQ | SIT Chair Priority 1 Lead, Organizer |
-| Mahya Ghazi Zadeh Hashemi | NASA | Lead, Water Quality |
-| Cecile S. Rousseaux | NASA GSFC | Ocean productivity, PACE |
+| John D. Bolten | NASA GSFC | Lead, Terrestrial Water Cycle |
+| Mahya Hashemi | NASA GSFC | Lead, Terrestrial Water Cycle |
+| Cecile S. Rousseaux | NASA GSFC | Lead, Water Quality |
 | Perry C. Oddo | NASA LaRC | Coordination, stakeholder engagement |
-| Morgaine McKibben | NASA GSFC | Contributor |
+| Morgaine McKibben | NASA GSFC | Lead, Terrestrial Water Cycle |
 | Karen St. Germain | NASA ESD | CEOS SIT Chair |
 | Julie Robinson | NASA ESD | CEOS SIT Co-Chair |
-| John D. Bolten | NASA GSFC | Lead, Terrestrial Water Cycle |
+
 
 ---
 
