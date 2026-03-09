@@ -7,6 +7,7 @@
 
 **CEOS SIT Chair Priority 1 — Water Planet**  
 Lead: 
+
 Version: 0.1-draft | Status: Open for community review
 
 ---
