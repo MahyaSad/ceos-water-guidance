@@ -6,7 +6,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ceos-org/ceos-water-guidance)
 
 **CEOS SIT Chair Priority 1 — Water Planet**  
-Lead: John D. Bolten (NASA GSFC) | Water Quality Lead: Mahya Ghazi Zadeh Hashemi  
+Lead: 
 Version: 0.1-draft | Status: Open for community review
 
 ---
